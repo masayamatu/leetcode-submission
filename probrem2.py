@@ -17,5 +17,4 @@ class Solution:
         print(l1.next)
         return ret
 
-Solution.addTwoNumbers([2,4,3],[5,6,4],0)
             
